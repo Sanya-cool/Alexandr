@@ -13,5 +13,4 @@ print(a + str(b) + c)
 a = '10' 
 b = 2.0
 print(a + b)
-a = '28.5' 
-b 
+a = '28.5'
